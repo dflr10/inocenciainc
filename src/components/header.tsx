@@ -22,7 +22,7 @@ export default function Header() {
           <div className="mr-4 flex">
             <a href="/" className="flex items-center space-x-2">
               <Brush className="h-6 w-6 text-primary" />
-              <span className="font-bold">Inocencia Studio</span>
+              <span className="font-bold">Inocencia Inc</span>
             </a>
           </div>
           <div className="flex flex-1 items-center justify-end space-x-4">
