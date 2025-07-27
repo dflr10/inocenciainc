@@ -109,7 +109,7 @@ export default function RelatedProducts({ products }: RelatedProductsProps) {
                           as="button"
                           className="rounded-xl bg-primary px-4 py-2 text-xs font-bold text-primary-foreground"
                         >
-                          Ver producto
+                          Ver más
                         </CardItem>
                       </div>
                     </CardBody>
